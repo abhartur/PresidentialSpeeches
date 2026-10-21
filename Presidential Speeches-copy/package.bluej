@@ -1,8 +1,8 @@
 #BlueJ package file
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=552
+editor.fx.0.y=138
 objectbench.height=93
 objectbench.width=760
 package.divider.horizontal=0.6
@@ -28,5 +28,5 @@ target1.name=Presidential_Speeches
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=160
-target1.x=424
-target1.y=71
+target1.x=90
+target1.y=20

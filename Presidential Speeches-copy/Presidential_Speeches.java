@@ -2,8 +2,8 @@
 /**
  * Write a description of class presidentialSpeeches here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * Adith Bhartur, Zuwei Liang
+ * 10/21/2026
  */
 
 import java.io.File;
